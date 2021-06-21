@@ -1,0 +1,36 @@
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\bin\Debug\POS-New.exe
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\bin\Debug\POS-New.pdb
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmAbout.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmAdminHome.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmCategory.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmLogin.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmMain.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmMyAccount.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmProduct.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmSalesRecord.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmUserAccount.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.Properties.Resources.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS-New.csproj.GenerateResource.Cache
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS-New.exe
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS-New.pdb
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmPassword.resources
+C:\Users\Snazzy\documents\visual studio 2012\Projects\POS-New\POS-New\obj\Debug\POS-New.csprojResolveAssemblyReference.cache
+C:\Users\Snazzy\Documents\Visual Studio 2012\Projects\POS-New\POS-New\obj\Debug\POS_New.frmSystemSettings.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS-New.exe
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS-New.pdb
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\bin\Debug\POS-New.exe
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\bin\Debug\POS-New.pdb
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS-New.csprojResolveAssemblyReference.cache
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmAbout.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmAdminHome.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmCategory.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmLogin.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmMain.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmMyAccount.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmPassword.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmProduct.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmSalesRecord.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmSystemSettings.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.frmUserAccount.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS_New.Properties.Resources.resources
+C:\Users\SNAZZY\Documents\Inventory System\POS-New\POS-New\POS-New\obj\Debug\POS-New.csproj.GenerateResource.Cache
